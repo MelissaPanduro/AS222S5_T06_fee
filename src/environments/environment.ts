@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  apigpt_fe: 'https://ominous-memory-v4xxwvxxjq5269pg-8085.app.github.dev/api'
+  apigpt_fe: 'https://miniature-bassoon-g4xpvvxpjqghwrvj-8085.app.github.dev/api'
   //apigpt_fe: `${API_BACKEND}`
 };
 
